@@ -1,0 +1,12 @@
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\bin\Debug\IntroToAI.exe.config
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\bin\Debug\IntroToAI.exe
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\bin\Debug\IntroToAI.pdb
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.csprojResolveAssemblyReference.cache
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.Properties.Resources.resources
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.csproj.GenerateResource.Cache
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.exe
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.pdb
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\bin\Debug\MaterialSkin.dll
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.First.resources
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\coreproc\documents\visual studio 2013\Projects\IntroToAI\IntroToAI\obj\Debug\IntroToAI.register.resources
